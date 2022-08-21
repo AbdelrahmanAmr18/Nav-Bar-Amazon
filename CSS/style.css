@@ -1,0 +1,7 @@
+.border{
+    border-radius: 0px !important;
+}
+
+.border:hover{
+    border-radius: 2px !important;
+}
